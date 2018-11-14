@@ -155,7 +155,6 @@ body {
 .sidebar .heading .nav-icon {
   position: absolute;
   top: 0;
-  padding: 0 16px;
 }
 .sidebar .heading nav {
   background-color: initial;
